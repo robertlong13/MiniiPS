@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP2171
+D Power Switch/Driver 1:1 P-Channel 1A SOT-25
+F https://www.diodes.com/assets/Datasheets/AP2161_71.pdf
+$ENDCMP
+#
+$CMP TPS54331DR
+D 3A, Step Down Swift Converter, Adjustable Output Voltage, 3.5-36V Input Voltage, PowerSO-8
+K Step-Down DC-DC Switching Regulator
+F http://www.ti.com/lit/ds/symlink/tps54331.pdf
+$ENDCMP
+#
+#End Doc Library
